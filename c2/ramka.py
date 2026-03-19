@@ -36,6 +36,6 @@ if CZ1:
 
 if CZ2:
     txt = 'hej\nhej'
-    txt1 = 'agh\nagh\nagh\n'
+    txt1 = 'aghagh\naghagh\naghagh\n'
     a = s_ramka(txt, '0', '1', 3)
     b = s_ramka(txt1, '0','1', 4)
